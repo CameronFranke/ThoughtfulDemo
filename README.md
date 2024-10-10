@@ -103,6 +103,9 @@ We can choose a threshold of 0.4
 
 ### Example ###
 (camDemo) /Users/cam/ThoughtfulDemo [main]% python agent.py
+
 Chatbot is ready. You can start asking questions! Type 'exit' to quit.
+
 User: What is EVA used for?
+
 Agent: EVA automates the process of verifying a patient’s eligibility and benefits information in real-time, eliminating manual data entry errors and reducing claim rejections.
